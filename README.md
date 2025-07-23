@@ -1,3 +1,7 @@
+## 🕹️ GitHub Activity Graph
+
+[![Vamsi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vamsikarnipu&theme=megatokyo)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vamsikarnipu/vamsikarnipu/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vamsikarnipu/vamsikarnipu/output/pacman-contribution-graph.svg">
