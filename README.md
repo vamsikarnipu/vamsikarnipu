@@ -72,9 +72,6 @@
 
 ---
 
-
-## 🐍 GitHub Contribution Snake
-
 ## 🐍 GitHub Contribution Snake
 
 <picture>
