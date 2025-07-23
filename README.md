@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/vamsikarnipu/vamsikarnipu/output/snake.svg" alt="Snake animation" />
+
 <h1 align="center">Hey 👋 What's Up?</h1>
 <h3 align="center">I'm Karnipu Vamsi – An AI/ML Enthusiast & SAP BTP Consultant @ Genpact</h3>
 
