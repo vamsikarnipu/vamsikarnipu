@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 <h3 align="center">I'm Karnipu Vamsi – An AI/ML Enthusiast & SAP BTP Consultant @ Genpact</h3>
+<img height="200" src="https://i.imgflip.com/a12uac.gif" alt="fun gif" />
 
 <p align="center">
   ⚡ Passionate about building smart systems with AI, LLMs, and Generative AI.<br>
