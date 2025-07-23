@@ -1,7 +1,15 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 <h3 align="center">I'm Karnipu Vamsi – An AI/ML Enthusiast & SAP BTP Consultant @ Genpact</h3>
 
-<p align="center">⚡ Passionate about building smart systems with AI, LLMs, and Generative AI.<br>🤝 Open to collaborate on open-source projects and hackathons.<br>📬 Reach me at <b>vamsikarnipu@gmail.com</b></p>
+<p align="center">
+  ⚡ Passionate about building smart systems with AI, LLMs, and Generative AI.<br>
+  🤝 Open to collaborate on open-source projects and hackathons.<br>
+  📬 Reach me at <b>vamsikarnipu@gmail.com</b>
+</p>
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vamsikarnipu.vamsikarnipu" alt="Visitor count" />
+</p>
 
 ---
 
@@ -23,9 +31,9 @@
 
 ### 🧠 Ask Me About
 
-- Python, C++, HTML/CSS
-- AI / ML / Deep Learning
-- Generative AI & LLMs
+- Python, C++, HTML/CSS  
+- AI / ML / Deep Learning  
+- Generative AI & LLMs  
 - Flask, LangChain, and Data Science tools
 
 ---
@@ -34,7 +42,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,html,css,flask,numpy,pandas,seaborn,tensorflow,pytorch" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
   <img src="https://img.shields.io/badge/LangChain-blue?style=flat-square&logo=python" height="25" />
 </div>
 
@@ -52,7 +59,7 @@
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vamsikarnipu&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vamsikarnipu&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
@@ -65,11 +72,11 @@
 
 ---
 
-### 👾 Snake Eating Contributions
+### 🐍 Snake Eating Contributions
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/vamsikarnipu/vamsikarnipu/output/snake.svg" alt="snake gif" />
-</p>
+</div>
 
 ---
 
@@ -79,12 +86,4 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <br><br>
   <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
-</div>
-
----
-
-### 📍 Visitor Count
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vamsikarnipu.vamsikarnipu" alt="visitors" />
 </div>
