@@ -94,6 +94,6 @@
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <br><br>
-  <img height="200" src="[https://imgflip.com/gif/a12t7f](https://i.imgflip.com/a12uac.gif)" alt="fun gif" />
+  <img height="200" src="https://i.imgflip.com/a12uac.gif" alt="fun gif" />
 </div>
 
