@@ -1,21 +1,3 @@
-## 🏙️ GitHub Skyline
-
-Check out my 3D GitHub Skyline:  
-[![GitHub Skyline](https://github.com/vamsikarnipu/skyline-2022/blob/main/preview.gif?raw=true)](https://skyline.github.com/vamsikarnipu/2022)
-
-
-## 🕹️ GitHub Activity Graph
-
-[![Vamsi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vamsikarnipu&theme=github-2019)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vamsikarnipu/vamsikarnipu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vamsikarnipu/vamsikarnipu/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/vamsikarnipu/vamsikarnipu/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
 <h1 align="center">Hey 👋 What's Up?</h1>
 <h3 align="center">I'm Karnipu Vamsi – An AI/ML Enthusiast & SAP BTP Consultant @ Genpact</h3>
 
@@ -99,12 +81,10 @@ Check out my 3D GitHub Skyline:
 </picture>
 
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vamsikarnipu/vamsikarnipu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vamsikarnipu/vamsikarnipu/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/vamsikarnipu/vamsikarnipu/output/pacman-contribution-graph.svg">
-</picture>
+
+## 🕹️ GitHub Activity Graph
+
+[![Vamsi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vamsikarnipu&theme=github-2019)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
