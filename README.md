@@ -94,6 +94,6 @@
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <br><br>
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+  <img height="200" src="https://imgflip.com/memetemplate/373996592/Bateman-walking" alt="fun gif" />
 </div>
 
