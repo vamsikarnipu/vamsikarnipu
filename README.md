@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 <h3 align="center">I'm Karnipu Vamsi – An AI/ML Enthusiast & SAP BTP Consultant @ Genpact</h3>
-<div align="center"><img height="200" src="https://i.imgflip.com/a12uac.gif" alt="fun gif" /></div>
+
 
 
 <p align="center">
@@ -9,7 +9,8 @@
   📬 Reach me at <b>vamsikarnipu@gmail.com</b>
 </p>
 
-<p align="right">
+<div align="center"><img height="200" src="https://i.imgflip.com/a12uac.gif" alt="fun gif" /></div>
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vamsikarnipu.vamsikarnipu" alt="Visitor count" />
 </p>
 
